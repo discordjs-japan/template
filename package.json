@@ -7,7 +7,7 @@
     "lint:fix": "eslint --ext .js --ignore-path .gitignore . --fix"
   },
   "dependencies": {
-    "discord.js": "^13.3.0"
+    "discord.js": "^13.3.1"
   },
   "devDependencies": {
     "eslint": "^8.1.0",
