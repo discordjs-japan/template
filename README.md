@@ -18,7 +18,7 @@ npm run start
 
 ### lint
 
-静的検証ツール(ESLint)を使って問題を調べる。
+Standardを使って問題を調べる。
 
 ```bash
 npm run lint
