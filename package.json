@@ -7,7 +7,7 @@
     "lint:fix": "standard --fix \"src/**/*.js\""
   },
   "dependencies": {
-    "discord.js": "^13.3.1"
+    "discord.js": "^13.5.0"
   },
   "devDependencies": {
     "standard": "^16.0.4"
